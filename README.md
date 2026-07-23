@@ -22,8 +22,8 @@ Also kinda obsessed with voice-driven applications.
 
 ## Smart Home
 
-- 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP (playback, queue, groups, events)
-- 💡 [hueify](https://github.com/mathisarends/hueify) - Natural language interface for the Philips Hue API v2
+- 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP and the S2 API, with a Cloud Integration (playback, queue, groups, events)
+- 💡 [hueify](https://github.com/mathisarends/hueify) - Event- and cache-based, performance-optimized Philips Hue CLIP v2 API and CLI
 - 🌅 [huerise](https://github.com/mathisarends/huerise) - Hue tooling
 
 ## AI / LLM Infrastructure
