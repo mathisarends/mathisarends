@@ -1,11 +1,9 @@
-**Münster, Germany** | Information Systems @ FH Münster
+**Münster, Germany** | currently doing my M.Sc. in Information Systems @ FH Münster
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=python)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=typescript)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](#)
-
-## What matters to me in software
 
 I'm somewhere between two poles: using AI to move fast and ship a lot, and still caring about the craft - clean boundaries, typed code, things built to actually last rather than just work once. Most of what's here comes out of that tension.
 
