@@ -15,6 +15,7 @@ Also kinda obsessed with voice-driven applications.
 - 🎙️ [cara](https://github.com/mathisarends/cara) - Realtime voice agent, ports-and-adapters, middleware (path policy, guardrails)
 - 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async STT/TTS wrapper with up-front capability validation
 - 🎧 [realtime-whisper](https://github.com/mathisarends/realtime-whisper) - Async client for OpenAI Realtime transcription
+- 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
 
 ## Smart Home
 
@@ -28,6 +29,7 @@ Also kinda obsessed with voice-driven applications.
 - 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
 - ⚙️ [openpygen](https://github.com/mathisarends/openpygen) - Python codegen tooling
+- 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
 
 ## Music & Games
 
