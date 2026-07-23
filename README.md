@@ -11,43 +11,37 @@ I'm somewhere between two poles: using AI to move fast and ship a lot, and still
 
 Also kinda obsessed with voice-driven applications.
 
-## Start Here
-
-- [cara](https://github.com/mathisarends/cara) - Voice agent built on the OpenAI Realtime API, with tools, middleware, and Sonos/Hue integration
-- [vocalbin](https://github.com/mathisarends/vocalbin) - Typed, async Python wrapper for OpenAI STT/TTS
-- [sonosify](https://github.com/mathisarends/sonosify) - Async API + agent-friendly CLI for Sonos speakers
-- [notionary](https://github.com/mathisarends/notionary) - Markdown → Notion, built for Python developers and AI automation
-
 ## Voice & Realtime Agents
 
-- [cara](https://github.com/mathisarends/cara) - Realtime voice agent, ports-and-adapters, middleware (path policy, guardrails)
-- [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
-- [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async STT/TTS wrapper with up-front capability validation
-- [realtime-whisper](https://github.com/mathisarends/realtime-whisper) - Async client for OpenAI Realtime transcription
+- 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
+- 🎙️ [cara](https://github.com/mathisarends/cara) - Realtime voice agent, ports-and-adapters, middleware (path policy, guardrails)
+- 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async STT/TTS wrapper with up-front capability validation
+- 🎧 [realtime-whisper](https://github.com/mathisarends/realtime-whisper) - Async client for OpenAI Realtime transcription
 
 ## Smart Home
 
-- [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP (playback, queue, groups, events)
-- [hueify](https://github.com/mathisarends/hueify) - Natural language interface for the Philips Hue API v2
-- [huerise](https://github.com/mathisarends/huerise) - Hue tooling
+- 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP (playback, queue, groups, events)
+- 💡 [hueify](https://github.com/mathisarends/hueify) - Natural language interface for the Philips Hue API v2
+- 🌅 [huerise](https://github.com/mathisarends/huerise) - Hue tooling
 
 ## AI / LLM Infrastructure
 
-- [llmify](https://github.com/mathisarends/llmify) - Type-safe Python library for OpenAI, Azure OpenAI, Anthropic
-- [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
-- [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
-- [openpygen](https://github.com/mathisarends/openpygen) - Python codegen tooling
+- 🤖 [llmify](https://github.com/mathisarends/llmify) - Type-safe Python library for OpenAI, Azure OpenAI, Anthropic
+- 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
+- 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
+- ⚙️ [openpygen](https://github.com/mathisarends/openpygen) - Python codegen tooling
 
 ## Music & Games
 
-- [prompster-cli](https://github.com/mathisarends/prompster-cli) - Generate Hitster-style card decks from natural language prompts and Spotify
-- [prompster-frontend](https://github.com/mathisarends/prompster-frontend) - Web app for playing with self-made Hitster cards
-- [spotifyify](https://github.com/mathisarends/spotifyify) - Typed async Spotify client for Python
+- 🎴 [prompster-cli](https://github.com/mathisarends/prompster-cli) - Generate Hitster-style card decks from natural language prompts and Spotify
+- 🎮 [prompster-frontend](https://github.com/mathisarends/prompster-frontend) - Web app for playing with self-made Hitster cards
+- 🎵 [spotifyify](https://github.com/mathisarends/spotifyify) - Typed async Spotify client for Python
 
 ## Integrations
 
-- [withings-client](https://github.com/mathisarends/withings-client) - Withings smart scale data
-- [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
+- 📝 [notionary](https://github.com/mathisarends/notionary) - Markdown → Notion, built for Python developers and AI automation
+- ⚖️ [withings-client](https://github.com/mathisarends/withings-client) - Withings smart scale data
+- 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
 
 ---
 
