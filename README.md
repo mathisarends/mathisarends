@@ -29,6 +29,7 @@ Also kinda obsessed with voice-driven applications.
 ## AI / LLM Infrastructure
 
 - 🤖 [llmify](https://github.com/mathisarends/llmify) - Type-safe Python library for OpenAI, Azure OpenAI, Anthropic
+- 🧰 [agenttoolkit](https://github.com/mathisarends/agenttoolkit) - One provider-neutral definition for tools exposed to LLM agents - schema, availability, metadata, and execution logic in one place
 - 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
 - ⚙️ [openpygen](https://github.com/mathisarends/openpygen) - Python codegen tooling
