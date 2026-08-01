@@ -46,6 +46,11 @@ Also kinda obsessed with voice-driven applications.
 - ⚖️ [withings-client](https://github.com/mathisarends/withings-client) - Withings smart scale data
 - 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
 
+## CLI Tools
+
+- 📚 [arxcli](https://github.com/mathisarends/arxcli) - Fast, minimal, script-friendly CLI for researching papers on arXiv, with human-readable tables and JSON/JSONL for agents
+- 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
+
 ---
 
 <sub>[GitHub](https://github.com/mathisarends)</sub>
