@@ -50,6 +50,7 @@ Also kinda obsessed with voice-driven applications.
 
 - 📚 [arxcli](https://github.com/mathisarends/arxcli) - Fast, minimal, script-friendly CLI for researching papers on arXiv, with human-readable tables and JSON/JSONL for agents
 - 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
+- ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl) - Read-first Go CLI for Fitbit/Pixel Watch health data via Google Health API v4, OAuth 2.0 + PKCE, JSON output
 
 ---
 
