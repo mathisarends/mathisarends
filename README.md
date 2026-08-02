@@ -15,7 +15,6 @@ Also kinda obsessed with voice-driven applications.
 ## Voice & Realtime Agents
 
 - 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
-- 🎙️ [cara](https://github.com/mathisarends/cara) - Realtime voice agent, ports-and-adapters, middleware (path policy, guardrails)
 - 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async STT/TTS wrapper with up-front capability validation
 - 🎧 [realtime-whisper](https://github.com/mathisarends/realtime-whisper) - Async client for OpenAI Realtime transcription
 - 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
