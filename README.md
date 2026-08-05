@@ -15,14 +15,13 @@ Also kinda obsessed with voice-driven applications.
 ## Voice & Realtime Agents
 
 - 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
-- 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async STT/TTS wrapper with up-front capability validation
-- 🎧 [realtime-whisper](https://github.com/mathisarends/realtime-whisper) - Async client for OpenAI Realtime transcription
+- 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async adapters for speech-to-text, text-to-speech, realtime transcription, and translation
 - 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
 
 ## Smart Home
 
 - 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP and the S2 API, with a Cloud Integration (playback, queue, groups, events)
-- 💡 [hueify](https://github.com/mathisarends/hueify) - Event- and cache-based, performance-optimized Philips Hue CLIP v2 API and CLI
+- 💡 [hueify](https://github.com/mathisarends/hueify) - Typed async Python client for Philips Hue CLIP v2, with one API for lights, rooms, zones, scenes, and events
 - 🌅 [huerise](https://github.com/mathisarends/huerise) - Philips Hue sunrise alarm with audio, REST API, and an agent-friendly CLI
 
 ## AI / LLM Infrastructure
@@ -31,7 +30,6 @@ Also kinda obsessed with voice-driven applications.
 - 🧰 [agenttoolkit](https://github.com/mathisarends/agenttoolkit) - One provider-neutral definition for tools exposed to LLM agents - schema, availability, metadata, and execution logic in one place
 - 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
-- ⚙️ [openpygen](https://github.com/mathisarends/openpygen) - Python codegen tooling
 - 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
 
 ## Music & Games
