@@ -1,16 +1,15 @@
 **Münster, Germany** | currently doing my M.Sc. in Information Systems @ FH Münster
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=python)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=go)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=typescript)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)](#)
-[![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)](#)
+[![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square)](#)
 
-I'm somewhere between two poles: using AI to move fast and ship a lot, and still caring about the craft - clean boundaries, typed code, things built to actually last rather than just work once. Most of what's here comes out of that tension.
-
-Also kinda obsessed with voice-driven applications.
+Kinda obsessed with voice-driven agents.
 
 ## Voice & Realtime Agents
 
