@@ -33,6 +33,10 @@ Kinda obsessed with voice-driven agents.
 - 🦞 [openclaw-codegen](https://github.com/mathisarends/openclaw-codegen) - Generated Python client for the OpenClaw Gateway API - 350 RPC operations across 55 domain clients, regenerated from the pinned gateway schema
 - 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
 
+## Conventions & Agent Guides
+
+- 🏛️ [fastapi-canon](https://github.com/mathisarends/fastapi-canon) - Opinionated FastAPI architecture conventions for coding agents - feature slices and DI boundaries
+
 ## Music & Games
 
 - 🎴 [prompster-cli](https://github.com/mathisarends/prompster-cli) - Generate Hitster-style card decks from natural language prompts and Spotify
