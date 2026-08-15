@@ -55,6 +55,7 @@ Kinda obsessed with voice-driven agents.
 - 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
 - ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl) - Read-first Go CLI for Fitbit/Pixel Watch health data via Google Health API v4, OAuth 2.0 + PKCE, JSON output
 - 🔉 [elevenfx](https://github.com/mathisarends/elevenfx) - Go CLI for generating sound effects with the ElevenLabs API
+- 💡 [huego](https://github.com/mathisarends/huego) - Go CLI for Philips Hue bridges, talking directly to the local CLIP v2 REST API
 
 ---
 
