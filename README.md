@@ -51,6 +51,7 @@ Kinda obsessed with voice-driven agents.
 ## CLI Tools
 
 - 📚 [arxcli](https://github.com/mathisarends/arxcli) - Fast, minimal, script-friendly CLI for researching papers on arXiv, with human-readable tables and JSON/JSONL for agents
+- 🎧 [spoti](https://github.com/mathisarends/spoti) - Go CLI for Spotify, backed by the official Web API via OAuth PKCE, no cookie scraping - agent-friendly JSON output
 - 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
 - ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl) - Read-first Go CLI for Fitbit/Pixel Watch health data via Google Health API v4, OAuth 2.0 + PKCE, JSON output
 - 🔉 [elevenfx](https://github.com/mathisarends/elevenfx) - Go CLI for generating sound effects with the ElevenLabs API
