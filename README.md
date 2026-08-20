@@ -13,6 +13,7 @@ Kinda obsessed with voice-driven agents.
 
 ## Voice & Realtime Agents
 
+- 🧠 [cara](https://github.com/mathisarends/cara) - Voice/CLI conversational agent with a JSON-RPC gateway and pluggable agent runtime - a learning project adapting OpenClaw-style architecture, with Hermes/open-cloud adapters planned
 - 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
 - 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async adapters for speech-to-text, text-to-speech, realtime transcription, and translation
 - 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
