@@ -33,6 +33,7 @@ Kinda obsessed with voice-driven agents.
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
 - 🦞 [openclaw-codegen](https://github.com/mathisarends/openclaw-codegen) - Generated Python client for the OpenClaw Gateway API - 350 RPC operations across 55 domain clients, regenerated from the pinned gateway schema
 - 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
+- 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Decorator-driven, transport-agnostic JSON-RPC 2.0 protocols for Python, with JSON Schema/OpenRPC export and client generation
 
 ## Conventions & Agent Guides
 
