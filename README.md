@@ -17,6 +17,7 @@ Kinda obsessed with voice-driven agents.
 - 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
 - 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async adapters for speech-to-text, text-to-speech, realtime transcription, and translation
 - 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
+- 🎙️ [wisprflow-re](https://github.com/mathisarends/wisprflow-re) - Unofficial Python client for transcribing audio with an existing Wispr Flow desktop session
 
 ## Smart Home
 
