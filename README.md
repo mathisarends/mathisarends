@@ -47,6 +47,10 @@ Kinda obsessed with voice-driven agents.
 
 - 🏛️ [fastapi-canon](https://github.com/mathisarends/fastapi-canon) - Opinionated FastAPI architecture conventions for coding agents - feature slices and DI boundaries
 
+## Presentations
+
+- 🎬 [fh-muenster-slidev-starter](https://github.com/mathisarends/fh-muenster-slidev-starter) - Slidev starter for FH Münster presentations with a component library and style guide in FH corporate design
+
 ## Music & Games
 
 - 🎴 [prompster-cli](https://github.com/mathisarends/prompster-cli) - Generate Hitster-style card decks from natural language prompts and Spotify
