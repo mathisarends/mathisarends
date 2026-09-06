@@ -34,6 +34,7 @@ Kinda obsessed with voice-driven agents.
 
 ## RPC & Codegen
 
+- 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generates a typed async httpx client from an OpenAPI document - plain Python, no runtime layer, no reflection
 - 🦞 [openclaw-codegen](https://github.com/mathisarends/openclaw-codegen) - Generated Python client for the OpenClaw Gateway API - 350 RPC operations across 55 domain clients, regenerated from the pinned gateway schema
 - 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Decorator-driven, transport-agnostic JSON-RPC 2.0 protocols for Python, with JSON Schema/OpenRPC export and client generation
 - 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
@@ -61,6 +62,7 @@ Kinda obsessed with voice-driven agents.
 
 - 📝 [notionary](https://github.com/mathisarends/notionary) - Markdown → Notion, built for Python developers and AI automation
 - 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
+- 🪣 [blobbit](https://github.com/mathisarends/blobbit) - Common async storage API for object storage buckets (GCS, S3, ...)
 
 ## CLI Tools
 
