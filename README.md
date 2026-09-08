@@ -17,7 +17,6 @@ Kinda obsessed with voice-driven agents.
 - 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
 - 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async adapters for speech-to-text, text-to-speech, realtime transcription, and translation
 - 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
-- 🎙️ [wisprflow-re](https://github.com/mathisarends/wisprflow-re) - Unofficial Python client for transcribing audio with an existing Wispr Flow desktop session
 
 ## Smart Home
 
@@ -42,6 +41,7 @@ Kinda obsessed with voice-driven agents.
 ## Browser Automation
 
 - 🌐 [browsertunnel](https://github.com/mathisarends/browsertunnel) - Mirrors a real Chromium tab into a web page over a single WebSocket - CDP-driven screencast, full clipboard/tab sync, and imitated input, built on cdpify and pyrpckit
+- 🪐 [browserplane](https://github.com/mathisarends/browserplane) - Browser provisioning platform inspired by Browserbase: lease and remotely control real Chromium sessions in a web UI
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
 
 ## Conventions & Agent Guides
