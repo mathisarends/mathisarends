@@ -47,6 +47,7 @@ Kinda obsessed with voice-driven agents.
 ## Conventions & Agent Guides
 
 - 🏛️ [fastapi-canon](https://github.com/mathisarends/fastapi-canon) - Opinionated FastAPI architecture conventions for coding agents - feature slices and DI boundaries
+- &#9888;&#65039; [fastapi-faults](https://github.com/mathisarends/fastapi_faults) - RFC 9457 problem details for ergonomic FastAPI error contracts
 
 ## Presentations
 
@@ -62,7 +63,6 @@ Kinda obsessed with voice-driven agents.
 
 - 📝 [notionary](https://github.com/mathisarends/notionary) - Markdown → Notion, built for Python developers and AI automation
 - 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
-- 🪣 [blobbit](https://github.com/mathisarends/blobbit) - Common async storage API for object storage buckets (GCS, S3, ...)
 
 ## CLI Tools
 
