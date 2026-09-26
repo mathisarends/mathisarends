@@ -26,7 +26,7 @@ Kinda obsessed with voice-driven agents.
 
 ## AI / LLM Infrastructure
 
-- 🤖 [llmify](https://github.com/mathisarends/llmify) - Type-safe Python library for OpenAI, Azure OpenAI, Anthropic
+- 🤖 [callm](https://github.com/mathisarends/callm) - Type-safe Python library for OpenAI, Azure OpenAI and Codex
 - 🔍 [retrieverkit](https://github.com/mathisarends/retrieverkit) - Provider-agnostic RAG building blocks for Python - chunking, dense/lexical retrieval, and rank fusion behind small abstract ports, zero core dependencies
 - 🧰 [agenttoolkit](https://github.com/mathisarends/agenttoolkit) - One provider-neutral definition for tools exposed to LLM agents - schema, availability, metadata, and execution logic in one place
 - 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
@@ -46,7 +46,7 @@ Kinda obsessed with voice-driven agents.
 
 ## Conventions & Agent Guides
 
-- 🏛️ [fastapi-canon](https://github.com/mathisarends/fastapi-canon) - Opinionated FastAPI architecture conventions for coding agents - feature slices and DI boundaries
+- 🏛️ [fastapi_canon](https://github.com/mathisarends/fastapi_canon) - Opinionated FastAPI composition conventions for feature-oriented applications
 - &#9888;&#65039; [fastapi-faults](https://github.com/mathisarends/fastapi_faults) - RFC 9457 problem details for ergonomic FastAPI error contracts
 
 ## Presentations
