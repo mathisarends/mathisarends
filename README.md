@@ -36,7 +36,6 @@ Kinda obsessed with voice-driven agents.
 - 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generates typed TypeScript API clients, query keys and TanStack Lit Query options from OpenAPI, with a checked-in example from API schema to Lit component
 - 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generates a typed async httpx client from an OpenAPI document - plain Python, no runtime layer, no reflection
 - 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Decorator-driven, transport-agnostic JSON-RPC 2.0 protocols for Python, with JSON Schema/OpenRPC export and client generation
-- 🚌 [transitbus](https://github.com/mathisarends/transitbus) - Type-safe async event bus for Python, Pydantic events with automatic parent/child causality
 
 ## Browser Automation
 
@@ -47,7 +46,6 @@ Kinda obsessed with voice-driven agents.
 ## Conventions & Agent Guides
 
 - 🏛️ [fastapi_canon](https://github.com/mathisarends/fastapi_canon) - Opinionated FastAPI composition conventions for feature-oriented applications
-- &#9888;&#65039; [fastapi-faults](https://github.com/mathisarends/fastapi_faults) - RFC 9457 problem details for ergonomic FastAPI error contracts
 
 ## Presentations
 
