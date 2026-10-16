@@ -33,6 +33,7 @@ Kinda obsessed with voice-driven agents.
 
 ## RPC & Codegen
 
+- 🌊 [fastapi-streams](https://github.com/mathisarends/fastapi-streams) - Decorator-driven typed SSE for FastAPI, with OpenAPI 3.2 contracts, generated TypeScript and Python clients, and CI drift checks
 - 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generates typed TypeScript API clients, query keys and TanStack Lit Query options from OpenAPI, with a checked-in example from API schema to Lit component
 - 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generates a typed async httpx client from an OpenAPI document - plain Python, no runtime layer, no reflection
 - 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Decorator-driven, transport-agnostic JSON-RPC 2.0 protocols for Python, with JSON Schema/OpenRPC export and client generation
