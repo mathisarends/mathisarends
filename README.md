@@ -44,10 +44,6 @@ Kinda obsessed with voice-driven agents.
 - 🪐 [browserplane](https://github.com/mathisarends/browserplane) - Browser provisioning platform inspired by Browserbase: lease and remotely control real Chromium sessions in a web UI
 - 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
 
-## Conventions & Agent Guides
-
-- 🏛️ [fastapi_canon](https://github.com/mathisarends/fastapi_canon) - Opinionated FastAPI composition conventions for feature-oriented applications
-
 ## Presentations
 
 - 🎬 [fh-muenster-slidev-starter](https://github.com/mathisarends/fh-muenster-slidev-starter) - Slidev starter for FH Münster presentations with a component library and style guide in FH corporate design
@@ -65,6 +61,7 @@ Kinda obsessed with voice-driven agents.
 
 ## CLI Tools
 
+- ⚒️ [smelt](https://github.com/mathisarends/smelt) - Architecture guardrails for Python and coding agents - import boundaries, test mirroring, and change-aware checks with actionable diagnostics
 - 📚 [arxcli](https://github.com/mathisarends/arxcli) - Fast, minimal, script-friendly CLI for researching papers on arXiv, with human-readable tables and JSON/JSONL for agents
 - 🎧 [spoti](https://github.com/mathisarends/spoti) - Go CLI for Spotify, backed by the official Web API via OAuth PKCE, no cookie scraping - agent-friendly JSON output
 - 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
