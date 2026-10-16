@@ -14,8 +14,8 @@ that keep contracts and architecture in sync.
 
 ## APIs, Codegen & Developer Tooling
 
-- 🌊 [fastapi-streams](https://github.com/mathisarends/fastapi-streams) - Decorate FastAPI SSE endpoints, generate typed TypeScript and Python clients, and catch contract drift in CI
 - 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Define typed Python RPC protocols with schema export and generated clients
+- 🌊 [fastapi-streams](https://github.com/mathisarends/fastapi-streams) - Decorate FastAPI SSE endpoints, generate typed TypeScript and Python clients, and catch contract drift in CI
 - 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generate typed TypeScript clients and TanStack Lit Query options from OpenAPI
 - 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generate typed async HTTPX clients from OpenAPI
 - ⚒️ [smelt](https://github.com/mathisarends/smelt) - Architecture guardrails for Python: import boundaries, test mirroring, and change-aware checks for reviewing agent changes
