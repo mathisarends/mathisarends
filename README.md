@@ -3,8 +3,8 @@
 Building Python libraries and developer tools for typed APIs, generated
 clients, and working with coding agents.
 
-Currently focused on FastAPI streaming, TypeScript/Python SDKs, and checks
-that keep contracts and architecture in sync.
+Currently building [Canon](https://github.com/mathisarends/canon): a FastAPI
+stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
 
 | Area | Tools |
 | --- | --- |
@@ -14,6 +14,9 @@ that keep contracts and architecture in sync.
 
 ## APIs, Codegen & Developer Tooling
 
+- 🏛️ [canon](https://github.com/mathisarends/canon) - One FastAPI workspace for architecture guides, feature composition, typed SSE, and WebSocket RPC; packages remain independently installable
+- 🧱 [fastapi-canon](https://github.com/mathisarends/canon/tree/main/packages/fastapi-canon) - Feature composition, Dishka dependency injection, and typed HTTP success/error contracts
+- 🔌 [fastapi-wsrpc](https://github.com/mathisarends/canon/tree/main/packages/fastapi-wsrpc) - FastAPI-first WebSocket RPC with OpenRPC and generated Python/TypeScript clients; unreleased successor to pyrpckit, whose original repository remains available
 - 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Define typed Python RPC protocols with schema export and generated clients
 - 🌊 [fastapi-streams](https://github.com/mathisarends/fastapi-streams) - Decorate FastAPI SSE endpoints, generate typed TypeScript and Python clients, and catch contract drift in CI
 - 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generate typed TypeScript clients and TanStack Lit Query options from OpenAPI
