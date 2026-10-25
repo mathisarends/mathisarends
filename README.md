@@ -59,6 +59,7 @@ stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
 - ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl) - Read-first Go CLI for Fitbit/Pixel Watch health data via Google Health API v4, OAuth 2.0 + PKCE, JSON output
 - 🔉 [elevenfx](https://github.com/mathisarends/elevenfx) - Go CLI for generating sound effects with the ElevenLabs API
 - 💡 [huego](https://github.com/mathisarends/huego) - Go CLI for Philips Hue bridges, talking directly to the local CLIP v2 REST API
+- 🍅 [pomod](https://github.com/mathisarends/pomod) - Tiny Pomodoro daemon with a Unix socket API: Waybar, your terminal and your AI agents are just clients, with hooks and agent-friendly JSON output
 
 ## Integrations
 
