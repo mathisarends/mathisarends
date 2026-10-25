@@ -49,6 +49,7 @@ stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
 - 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP and the S2 API, with a Cloud Integration (playback, queue, groups, events)
 - 💡 [hueify](https://github.com/mathisarends/hueify) - Typed async Python client for Philips Hue CLIP v2, with one API for lights, rooms, zones, scenes, and events
 - 🌅 [huerise](https://github.com/mathisarends/huerise) - Philips Hue sunrise alarm with audio, REST API, and an agent-friendly CLI
+- 🎛️ [omarchy-hue](https://github.com/mathisarends/omarchy-hue) - Philips Hue in the Omarchy bar: rooms, zones, scenes, brightness, and favorites in a keyboard-first panel with configurable keys, powered by huego
 
 ## CLI Tools
 
