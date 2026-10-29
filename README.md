@@ -26,6 +26,7 @@ stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
 
 ## AI / LLM Infrastructure
 
+- 🪢 [harnessed](https://github.com/mathisarends/harnessed) - Composable Python agent SDK built from reversible plugins, with tool approvals and durable, append-only session logs
 - 🤖 [callm](https://github.com/mathisarends/callm) - Type-safe Python library for OpenAI, Azure OpenAI and Codex
 - 🔍 [retrieverkit](https://github.com/mathisarends/retrieverkit) - Provider-agnostic RAG building blocks for Python - chunking, dense/lexical retrieval, and rank fusion behind small abstract ports, zero core dependencies
 - 🧰 [agenttoolkit](https://github.com/mathisarends/agenttoolkit) - One provider-neutral definition for tools exposed to LLM agents - schema, availability, metadata, and execution logic in one place
