@@ -23,6 +23,7 @@ stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
 - 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generate typed TypeScript clients and TanStack Lit Query options from OpenAPI
 - 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generate typed async HTTPX clients from OpenAPI
 - ⚒️ [smelt](https://github.com/mathisarends/smelt) - Architecture guardrails for Python: import boundaries, test mirroring, and change-aware checks for reviewing agent changes
+- ⏰ [wakeline](https://github.com/mathisarends/wakeline) - Typed asyncio coordination for scheduled wakeups, with lanes, dependencies, concurrency limits, and optional SQLite/PostgreSQL persistence
 
 ## AI / LLM Infrastructure
 
