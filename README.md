@@ -22,7 +22,7 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
   Python definitions drive the exported contracts and static client generation. CI checks catch drift between server definitions, schemas, and generated code.
 
 - 🕯️ [**lit-canon**](https://github.com/mathisarends/lit-canon): Statically generated API clients, TanStack Query integration, and application composition for Lit.
-- 🪢 [**harnessed**](https://github.com/mathisarends/harnessed): A Python agent SDK with composable plugins, tool policies, and persistent session logs.
+- 🪢 [**harnessed**](https://github.com/mathisarends/harnessed): A Python agent runtime and SDK inspired by [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), with a Pythonic API, composable plugins, tool policies, and persistent session logs.
 - ⚒️ [**smelt**](https://github.com/mathisarends/smelt): Architecture checks for Python projects, built for reviewing what coding agents change.
 - ⏰ [**wakeline**](https://github.com/mathisarends/wakeline): Typed asyncio coordination for scheduled wakeups, with lanes, concurrency limits, and persistence.
 - 🧠 [**cara**](https://github.com/mathisarends/cara): A personal assistant experiment with interruptible voice conversations shared across voice and terminal clients.
