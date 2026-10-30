@@ -1,83 +1,59 @@
-**Münster, Germany** | currently doing my M.Sc. in Information Systems @ FH Münster
+# Hi, I'm Mathis
 
-Building Python libraries and developer tools for typed APIs, generated
-clients, and working with coding agents.
+I build libraries and developer tools for agents, browser automation, and software engineering workflows.
 
-Currently building [Canon](https://github.com/mathisarends/canon): a FastAPI
-stack for HTTP contracts, typed SSE, WebSocket RPC, and generated clients.
+My focus is on typed APIs, static code generation, and CI checks that keep contracts and generated clients in sync.
 
-| Area | Tools |
-| --- | --- |
-| Languages | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=python) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=go) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=typescript) |
-| Frameworks | [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Lit](https://img.shields.io/badge/-Lit-324FFF?style=flat-square&logo=lit&logoColor=white)](https://lit.dev/) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/) |
-| Coding agents | [![Codex](assets/badges/codex.svg)](https://openai.com/codex/) [![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.ai/) |
+Münster, Germany · M.Sc. Information Systems @ FH Münster\
+Python · TypeScript · Go
 
-## APIs, Codegen & Developer Tooling
+## Selected projects
 
-- 🏛️ [canon](https://github.com/mathisarends/canon) - One FastAPI workspace for architecture guides, feature composition, typed SSE, and WebSocket RPC; packages remain independently installable
-- 🧱 [fastapi-canon](https://github.com/mathisarends/canon/tree/main/packages/fastapi-canon) - Feature composition, Dishka dependency injection, and typed HTTP success/error contracts
-- 🔌 [fastapi-wsrpc](https://github.com/mathisarends/canon/tree/main/packages/fastapi-wsrpc) - FastAPI-first WebSocket RPC with OpenRPC and generated Python/TypeScript clients; unreleased successor to pyrpckit, whose original repository remains available
-- 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit) - Define typed Python RPC protocols with schema export and generated clients
-- 🌊 [fastapi-streams](https://github.com/mathisarends/fastapi-streams) - Decorate FastAPI SSE endpoints, generate typed TypeScript and Python clients, and catch contract drift in CI
-- 🕯️ [lit-canon](https://github.com/mathisarends/lit-canon) - Libraries for Lit single-page apps: typed OpenAPI client with TanStack Lit Query options, a dependency-free fetch runtime, and app composition for pages, features, guards, and providers; successor to lit-query-codegen
-- 🧩 [lit-query-codegen](https://github.com/mathisarends/lit-query-codegen) - Generate typed TypeScript clients and TanStack Lit Query options from OpenAPI
-- 🐍 [httpxgen](https://github.com/mathisarends/httpxgen) - Generate typed async HTTPX clients from OpenAPI
-- ⚒️ [smelt](https://github.com/mathisarends/smelt) - Architecture guardrails for Python: import boundaries, test mirroring, and change-aware checks for reviewing agent changes
-- ⏰ [wakeline](https://github.com/mathisarends/wakeline) - Typed asyncio coordination for scheduled wakeups, with lanes, dependencies, concurrency limits, and optional SQLite/PostgreSQL persistence
+- [**canon**](https://github.com/mathisarends/canon): My FastAPI stack, built around [fastapi-canon](https://github.com/mathisarends/canon/tree/main/packages/fastapi-canon). Application architecture, typed HTTP contracts, streaming, and realtime communication, with static client generation and CI checks for contract drift.
+- [**lit-canon**](https://github.com/mathisarends/lit-canon): Statically generated API clients, TanStack Query integration, and application composition for Lit.
+- [**harnessed**](https://github.com/mathisarends/harnessed): A Python agent SDK with composable plugins, tool policies, and persistent session logs.
+- [**smelt**](https://github.com/mathisarends/smelt): Architecture checks for Python projects, built for reviewing what coding agents change.
+- [**wakeline**](https://github.com/mathisarends/wakeline): Typed asyncio coordination for scheduled wakeups, with lanes, concurrency limits, and persistence.
+- [**cara**](https://github.com/mathisarends/cara): A personal assistant experiment with interruptible voice conversations shared across voice and terminal clients.
 
-## AI / LLM Infrastructure
+## More projects
 
-- 🪢 [harnessed](https://github.com/mathisarends/harnessed) - Composable Python agent SDK built from reversible plugins, with tool approvals and durable, append-only session logs; inspired by [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
-- 🤖 [callm](https://github.com/mathisarends/callm) - Type-safe Python library for OpenAI, Azure OpenAI and Codex
-- 🔍 [retrieverkit](https://github.com/mathisarends/retrieverkit) - Provider-agnostic RAG building blocks for Python - chunking, dense/lexical retrieval, and rank fusion behind small abstract ports, zero core dependencies
-- 🧰 [agenttoolkit](https://github.com/mathisarends/agenttoolkit) - One provider-neutral definition for tools exposed to LLM agents - schema, availability, metadata, and execution logic in one place
-- 💰 [tokenary](https://github.com/mathisarends/tokenary) - LLM API cost calculation based on the LiteLLM model catalog
+**Browser automation**
 
-## Browser Automation
+- [cdpify](https://github.com/mathisarends/cdpify): Typed Python CDP client generated from the protocol specification.
+- [browsertunnel](https://github.com/mathisarends/browsertunnel): Mirror and control a real Chromium tab through a web page.
+- [browserplane](https://github.com/mathisarends/browserplane): Lease and remotely control Chromium sessions through a web UI.
 
-- 🌐 [browsertunnel](https://github.com/mathisarends/browsertunnel) - Mirrors a real Chromium tab into a web page over a single WebSocket - CDP-driven screencast, full clipboard/tab sync, and imitated input, built on cdpify and pyrpckit
-- 🪐 [browserplane](https://github.com/mathisarends/browserplane) - Browser provisioning platform inspired by Browserbase: lease and remotely control real Chromium sessions in a web UI
-- 🧬 [cdpify](https://github.com/mathisarends/cdpify) - Type-safe Chrome DevTools Protocol client with Pydantic models, including a codegen tool that generates the client straight from the CDP specification
+**Voice & audio**
 
-## Voice & Realtime Agents
+- [vocalbin](https://github.com/mathisarends/vocalbin): Typed async adapters for speech recognition, synthesis, and transcription.
+- [wakewordkit](https://github.com/mathisarends/wakewordkit): Wake word detection with pluggable audio input.
 
-- 🧠 [cara](https://github.com/mathisarends/cara) - Voice/CLI conversational agent with a JSON-RPC gateway and pluggable agent runtime
-- 🗣️ [rtvoice](https://github.com/mathisarends/rtvoice) - Framework for real-time voice agents on OpenAI's Realtime API
-- 🎤 [vocalbin](https://github.com/mathisarends/vocalbin) - Typed async adapters for speech-to-text, text-to-speech, realtime transcription, and translation
-- 👂 [wakewordkit](https://github.com/mathisarends/wakewordkit) - Wake word detection built on openWakeWord, with a pluggable audio input API
+**CLI tools**
 
-## Smart Home
+- [spoti](https://github.com/mathisarends/spoti): Spotify from the terminal, with JSON output for agents.
+- [pomod](https://github.com/mathisarends/pomod): A Pomodoro daemon for your terminal, desktop bar, and agents.
+- [fitbitctl](https://github.com/mathisarends/fitbitctl): A Go CLI for Fitbit and Pixel Watch health data.
+- [go-withings](https://github.com/mathisarends/go-withings): A Go CLI for Withings weight and body composition data.
+- [huego](https://github.com/mathisarends/huego): Control Philips Hue bridges locally from the terminal.
 
-- 🔊 [sonosify](https://github.com/mathisarends/sonosify) - Sonos control over UPnP and the S2 API, with a Cloud Integration (playback, queue, groups, events)
-- 💡 [hueify](https://github.com/mathisarends/hueify) - Typed async Python client for Philips Hue CLIP v2, with one API for lights, rooms, zones, scenes, and events
-- 🌅 [huerise](https://github.com/mathisarends/huerise) - Philips Hue sunrise alarm with audio, REST API, and an agent-friendly CLI
-- 🎛️ [omarchy-hue](https://github.com/mathisarends/omarchy-hue) - Philips Hue in the Omarchy bar: rooms, zones, scenes, brightness, and favorites in a keyboard-first panel with configurable keys, powered by huego
+**Smart home**
 
-## CLI Tools
+- [hueify](https://github.com/mathisarends/hueify): Typed async Python client for Philips Hue lights, rooms, and scenes.
+- [sonosify](https://github.com/mathisarends/sonosify): Python control for Sonos playback, queues, groups, and events.
+- [huerise](https://github.com/mathisarends/huerise): A Philips Hue sunrise alarm with audio and a CLI.
+- [omarchy-hue](https://github.com/mathisarends/omarchy-hue): Keyboard-driven Philips Hue controls in the Omarchy bar.
 
-- 📚 [arxcli](https://github.com/mathisarends/arxcli) - Fast, minimal, script-friendly CLI for researching papers on arXiv, with human-readable tables and JSON/JSONL for agents
-- 🎧 [spoti](https://github.com/mathisarends/spoti) - Go CLI for Spotify, backed by the official Web API via OAuth PKCE, no cookie scraping - agent-friendly JSON output
-- 📊 [go-withings](https://github.com/mathisarends/go-withings) - Script-friendly CLI for the Withings API - OAuth, weight & body composition, human-readable or JSON output
-- ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl) - Read-first Go CLI for Fitbit/Pixel Watch health data via Google Health API v4, OAuth 2.0 + PKCE, JSON output
-- 🔉 [elevenfx](https://github.com/mathisarends/elevenfx) - Go CLI for generating sound effects with the ElevenLabs API
-- 💡 [huego](https://github.com/mathisarends/huego) - Go CLI for Philips Hue bridges, talking directly to the local CLIP v2 REST API
-- 🍅 [pomod](https://github.com/mathisarends/pomod) - Tiny Pomodoro daemon with a Unix socket API: Waybar, your terminal and your AI agents are just clients, with hooks and agent-friendly JSON output
+**APIs & integrations**
 
-## Integrations
+- [httpxgen](https://github.com/mathisarends/httpxgen): Generate typed async Python HTTPX clients from OpenAPI.
+- [pyrpckit](https://github.com/mathisarends/pyrpckit): Typed Python RPC protocols with schema export and generated clients.
+- [notionary](https://github.com/mathisarends/notionary): Turn Markdown into Notion pages through Python.
+- [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper): A simpler interface to the Unsplash API.
 
-- 📝 [notionary](https://github.com/mathisarends/notionary) - Markdown → Notion, built for Python developers and AI automation
-- 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper) - Simplified interface for the Unsplash API
+**Music & presentations**
 
-## Music & Games
+- [spotifyify](https://github.com/mathisarends/spotifyify): A typed async Spotify client for Python.
+- [fh-muenster-slidev-starter](https://github.com/mathisarends/fh-muenster-slidev-starter): A Slidev starter with components in FH Münster’s corporate design.
 
-- 🎴 [prompster-cli](https://github.com/mathisarends/prompster-cli) - Generate Hitster-style card decks from natural language prompts and Spotify
-- 🎮 [prompster-frontend](https://github.com/mathisarends/prompster-frontend) - Web app for playing with self-made Hitster cards
-- 🎵 [spotifyify](https://github.com/mathisarends/spotifyify) - Typed async Spotify client for Python
-
-## Presentations
-
-- 🎬 [fh-muenster-slidev-starter](https://github.com/mathisarends/fh-muenster-slidev-starter) - Slidev starter for FH Münster presentations with a component library and style guide in FH corporate design
-
----
-
-<sub>[GitHub](https://github.com/mathisarends)</sub>
+[Browse all repositories →](https://github.com/mathisarends?tab=repositories)
