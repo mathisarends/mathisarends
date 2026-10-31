@@ -12,15 +12,7 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
 
 ## Selected projects
 
-- 🏛️ [**canon**](https://github.com/mathisarends/canon): A stack of independently installable FastAPI libraries for application architecture, typed HTTP APIs, HTTP event streams, WebSockets, and WebRTC.
-
-  - 🧱 [**fastapi-canon**](https://github.com/mathisarends/canon/tree/main/packages/fastapi-canon): Feature composition, dependency injection, and explicit HTTP success and error contracts.
-  - 🌊 [**fastapi-streams**](https://github.com/mathisarends/canon/tree/main/packages/fastapi-streams): Typed HTTP event streams through SSE, with statically generated Python and TypeScript clients.
-  - 🔌 [**fastapi-rpckit**](https://github.com/mathisarends/canon/tree/main/packages/fastapi-rpckit): Typed WebSocket APIs with RPC, server-pushed events, subscriptions, and binary streams, plus generated Python and TypeScript clients.
-  - 📡 [**fastapi-webrtc**](https://github.com/mathisarends/canon/tree/main/packages/fastapi-webrtc): Typed WebRTC sessions for media and data channels, with generated browser clients.
-
-  Python definitions drive the exported contracts and static client generation. CI checks catch drift between server definitions, schemas, and generated code.
-
+- 🏛️ [**fastapi-canon**](https://github.com/mathisarends/fastapi_canon): Feature composition, Dishka dependency injection, and typed HTTP contracts, with optional SSE, WebSocket, and WebRTC integrations and statically generated Python and TypeScript clients.
 - 🕯️ [**lit-canon**](https://github.com/mathisarends/lit-canon): Statically generated API clients, TanStack Query integration, and application composition for Lit.
 - 🪢 [**harnessed**](https://github.com/mathisarends/harnessed): A Python agent runtime and SDK inspired by [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), with a Pythonic API, composable plugins, tool policies, and persistent session logs.
 - ⚒️ [**smelt**](https://github.com/mathisarends/smelt): Architecture checks for Python projects, built for reviewing what coding agents change.
