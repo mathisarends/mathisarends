@@ -36,7 +36,6 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
 - 🎧 [spoti](https://github.com/mathisarends/spoti): Spotify from the terminal, with JSON output for agents.
 - 🍅 [pomod](https://github.com/mathisarends/pomod): A Pomodoro daemon for your terminal, desktop bar, and agents.
 - ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl): A Go CLI for Fitbit and Pixel Watch health data.
-- 📊 [go-withings](https://github.com/mathisarends/go-withings): A Go CLI for Withings weight and body composition data.
 - 💡 [huego](https://github.com/mathisarends/huego): Control Philips Hue bridges locally from the terminal.
 
 **Smart home**
@@ -49,7 +48,6 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
 **APIs & integrations**
 
 - 🐍 [httpxgen](https://github.com/mathisarends/httpxgen): Generate typed async Python HTTPX clients from OpenAPI.
-- 🔌 [pyrpckit](https://github.com/mathisarends/pyrpckit): Typed Python RPC protocols with schema export and generated clients.
 - 📝 [notionary](https://github.com/mathisarends/notionary): Turn Markdown into Notion pages through Python.
 - 🖼️ [unsplash-wrapper](https://github.com/mathisarends/unsplash-wrapper): A simpler interface to the Unsplash API.
 
