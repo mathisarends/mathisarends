@@ -2,8 +2,6 @@
 
 I build libraries and developer tools for agents, browser automation, and software engineering workflows.
 
-My focus is on typed APIs, static code generation, and CI checks that keep contracts and generated clients in sync.
-
 Münster, Germany · M.Sc. Information Systems @ FH Münster
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mathisarends?tab=repositories&language=python)
