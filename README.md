@@ -12,7 +12,6 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
 - 🕯️ [**lit-canon**](https://github.com/mathisarends/lit-canon): Statically generated API clients, TanStack Query integration, and application composition for Lit.
 - 🪢 [**harnessed**](https://github.com/mathisarends/harnessed): A Python agent runtime and SDK inspired by [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), with a Pythonic API, composable plugins, tool policies, and persistent session logs.
 - ⚒️ [**smelt**](https://github.com/mathisarends/smelt): Architecture checks for Python projects, built for reviewing what coding agents change.
-- ⏰ [**wakeline**](https://github.com/mathisarends/wakeline): Typed asyncio coordination for scheduled wakeups, with lanes, concurrency limits, and persistence.
 
 ## More projects
 
