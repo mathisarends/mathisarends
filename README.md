@@ -29,6 +29,7 @@ Münster, Germany · M.Sc. Information Systems @ FH Münster
 **CLI tools**
 
 - 🎧 [spoti](https://github.com/mathisarends/spoti): Spotify from the terminal, with JSON output for agents.
+- 🎶 [omarchy-spotify](https://github.com/mathisarends/omarchy-spotify): A distraction-free, keyboard-driven Spotify remote in the Omarchy bar.
 - 🍅 [pomod](https://github.com/mathisarends/pomod): A Pomodoro daemon for your terminal, desktop bar, and agents.
 - ⌚ [fitbitctl](https://github.com/mathisarends/fitbitctl): A Go CLI for Fitbit and Pixel Watch health data.
 - 💡 [huego](https://github.com/mathisarends/huego): Control Philips Hue bridges locally from the terminal.
